@@ -1,3 +1,6 @@
 HELLO WORLD
+<<<<<<< HEAD
 some changes made
+=======
 changes made in production
+>>>>>>> production
